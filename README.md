@@ -1,4 +1,4 @@
-Run appilication ที่ src/main.java
+Run appilication ที่ 6530300368-Project-Tictactoe/src/main.java
 
 วิธีการใช้งาน 
 1.มีผู้เล่น 2 ฝ่าย คือ X และ O ให้ผู้เล่นเลือกว่าจะเป็นฝ่าย X หรือ O 
